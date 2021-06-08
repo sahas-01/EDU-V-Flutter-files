@@ -41,7 +41,9 @@ What sets EDU-V apart from all these platforms is that,for most courses, the con
 - Courses and learning for larger number of fields.
 
 
+### The code for the AR/VR implementation is linked below:
 
+https://github.com/AdityaDeodeshmukh/EDUV-ARFiles
 
 
 
